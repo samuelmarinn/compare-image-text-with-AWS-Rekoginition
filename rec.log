@@ -1,0 +1,29 @@
+INFO:root:2020-06-08 23:35:18.331163 Program started with control image: control.png
+INFO:root:2020-06-08 23:35:18.331163 Program started with image: test.png
+INFO:root:2020-06-08 23:35:20.746597 Program recognized the following words in control image: 
+
+INFO:root:it's
+INFO:root:monday
+INFO:root:but
+INFO:root:keep
+INFO:root:smiling
+INFO:root:2020-06-08 23:35:22.998499 Program ended with TRUE
+
+INFO:root:2020-06-08 23:35:29.937538 Program started with control image: control.png
+INFO:root:2020-06-08 23:35:29.938580 Program started with image: test2.png
+INFO:root:2020-06-08 23:35:33.435406 Program recognized the following words in control image: 
+
+INFO:root:it's
+INFO:root:monday
+INFO:root:but
+INFO:root:keep
+INFO:root:smiling
+INFO:root:2020-06-08 23:53:12.591914 Program started with control image: control.png
+INFO:root:2020-06-08 23:53:12.592900 Program started with image: test.png
+INFO:root:2020-06-08 23:53:36.762701 Program started with control image: control.png
+INFO:root:2020-06-08 23:53:36.762701 Program started with image: test.png
+INFO:root:2020-06-08 23:54:03.082453 Program started with control image: control.png
+INFO:root:2020-06-08 23:54:03.083452 Program started with image: test.png
+INFO:root:2020-06-08 23:54:05.390311 Program recognized the following phrase in control image:  it's monday but keep smiling
+INFO:root:2020-06-08 23:54:08.613314 Program ended with TRUE
+INFO:root:-----------------------------------------------------------------------------
